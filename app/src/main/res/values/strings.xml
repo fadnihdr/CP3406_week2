@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">week2</string>
+    <string name="img">test</string>
+    <string name="button1">button1</string>
+    <string name="lowertext">this is a sample message</string>
+    <string name="lowertext2">this message has changed</string>
+</resources>
